@@ -1,5 +1,5 @@
 name: Regression tests
-on: pushgit
+on: push
 jobs:
   cypress-run:
     name: Cypress run
